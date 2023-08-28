@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 -->
 
-Hello, my name is Daniel Ortiz I am a full-stack software developer. My technology stack involves Rust, Solidity, C, JS, React, Next.js, MongoDB, HTML/CSS/Tailwind. Besides coding, I have an immense interest in health & well-being.
+I am a full-stack developer specializing in AI & Blockchain technology. My technology stack involves Rust, Solidity, C, JS, React, Next.js, MongoDB, HTML/CSS/Tailwind. Besides coding, I have an immense interest in health & well-being.
 
 - 🔭 I’m currently an AI & Blockchain full stack developer 
 - 💬 Let's Collaborate
