@@ -19,7 +19,7 @@ I am a full-stack developer specializing in AI & Blockchain technology. My techn
 
 - 🔭 I’m currently an AI & Blockchain full stack developer 
 - 💬 Let's Collaborate
-- 📫 How to reach me: ortixed@gmail.com
+- 📫 Telegram: @danisvice1
 
 **Languages and Tools:** 
 
